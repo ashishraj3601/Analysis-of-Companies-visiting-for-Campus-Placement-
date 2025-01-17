@@ -59,6 +59,7 @@ Following inferences can be drawn from the dashboard;
 ### Total Number of job offered = 2054
 
    Number of job offered in software = 511 (25%)
+   
    Number of job offered in core engineering = 285 (14%)
 
    Number of job offered in consultancy = 411 (20%)
